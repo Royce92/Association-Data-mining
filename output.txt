@@ -1,0 +1,66 @@
+1: including ==> include: Support:0.5 Confidence:0.82
+2: including ==> system: Support:0.5 Confidence:0.82
+3: including ==> systems: Support:0.5 Confidence:0.82
+4: including ==> time: Support:0.5 Confidence:0.82
+5: including ==> based: Support:0.5 Confidence:0.82
+6: include ==> system: Support:0.5 Confidence:0.7
+7: include ==> systems: Support:0.5 Confidence:0.7
+8: include ==> software: Support:0.5 Confidence:0.7
+9: include ==> time: Support:0.5 Confidence:0.7
+10: include ==> applications: Support:0.5 Confidence:0.7
+11: include ==> data: Support:0.5 Confidence:0.7
+12: include ==> based: Support:0.5 Confidence:0.7
+13: system ==> systems: Support:0.5 Confidence:0.65
+14: system ==> software: Support:0.5 Confidence:0.65
+15: system ==> operating: Support:0.5 Confidence:0.65
+16: system ==> number: Support:0.5 Confidence:0.65
+17: system ==> needed: Support:0.5 Confidence:0.65
+18: system ==> time: Support:0.5 Confidence:0.65
+19: system ==> called: Support:0.5 Confidence:0.65
+20: system ==> applications: Support:0.5 Confidence:0.65
+21: system ==> computer: Support:0.5 Confidence:0.65
+22: system ==> data: Support:0.5 Confidence:0.65
+23: system ==> large: Support:0.5 Confidence:0.65
+24: system ==> based: Support:0.5 Confidence:0.65
+25: system ==> support: Support:0.5 Confidence:0.65
+26: system ==> provide: Support:0.5 Confidence:0.65
+27: systems ==> software: Support:0.5 Confidence:0.69
+28: systems ==> operating: Support:0.5 Confidence:0.69
+29: systems ==> needed: Support:0.5 Confidence:0.69
+30: systems ==> time: Support:0.5 Confidence:0.69
+31: systems ==> called: Support:0.5 Confidence:0.69
+32: systems ==> applications: Support:0.5 Confidence:0.69
+33: systems ==> computer: Support:0.5 Confidence:0.69
+34: systems ==> data: Support:0.5 Confidence:0.69
+35: systems ==> based: Support:0.5 Confidence:0.69
+36: systems ==> provide: Support:0.5 Confidence:0.69
+37: software ==> time: Support:0.5 Confidence:0.76
+38: software ==> based: Support:0.5 Confidence:0.76
+39: operating ==> based: Support:0.5 Confidence:0.84
+40: number ==> time: Support:0.5 Confidence:0.84
+41: number ==> based: Support:0.5 Confidence:0.84
+42: needed ==> time: Support:0.5 Confidence:0.88
+43: time ==> called: Support:0.5 Confidence:0.72
+44: time ==> data: Support:0.5 Confidence:0.72
+45: time ==> based: Support:0.5 Confidence:0.72
+46: time ==> provide: Support:0.5 Confidence:0.72
+47: called ==> based: Support:0.5 Confidence:0.82
+48: applications ==> based: Support:0.5 Confidence:0.81
+49: data ==> based: Support:0.5 Confidence:0.79
+50: based ==> provide: Support:0.5 Confidence:0.67
+51: system ==> ['include', 'systems']: Support: 0.5 Confidence:0.65
+52: system ==> ['include', 'time']: Support: 0.5 Confidence:0.65
+53: include ==> ['system', 'systems']: Support: 0.5 Confidence:0.7
+54: include ==> ['system', 'time']: Support: 0.5 Confidence:0.7
+55: time ==> ['include', 'based']: Support: 0.5 Confidence:0.72
+56: include ==> ['time', 'based']: Support: 0.5 Confidence:0.7
+57: systems ==> ['system', 'software']: Support: 0.5 Confidence:0.69
+58: systems ==> ['system', 'time']: Support: 0.5 Confidence:0.69
+59: systems ==> ['system', 'based']: Support: 0.5 Confidence:0.69
+60: system ==> ['systems', 'software']: Support: 0.5 Confidence:0.65
+61: system ==> ['systems', 'time']: Support: 0.5 Confidence:0.65
+62: system ==> ['systems', 'based']: Support: 0.5 Confidence:0.65
+63: time ==> ['system', 'based']: Support: 0.5 Confidence:0.72
+64: system ==> ['time', 'based']: Support: 0.5 Confidence:0.65
+65: time ==> ['systems', 'based']: Support: 0.5 Confidence:0.72
+66: systems ==> ['time', 'based']: Support: 0.5 Confidence:0.69
